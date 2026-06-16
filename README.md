@@ -9,7 +9,7 @@
 ## Sessão 1 — Python e Pandas: Análise Exploratória de Dados
 
 > **Dataset utilizado nesta sessão:** [Datasaurus Dozen](https://jumpingrivers.github.io/datasauRus/)  
-> O dataset pode ser baixado diretamente via Python usando o pacote `datasaurus`:  
+> O dataset pode ser baixado diretamente via Python usando o pacote `datasaurus`  :  
 > ```python
 > pip install datasaurus
 > from datasaurus.core.models import Datasaurus
