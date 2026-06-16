@@ -9,7 +9,7 @@
 ## Sessão 1 — Python e Pandas: Análise Exploratória de Dados
 
 > **Dataset utilizado nesta sessão:** [Datasaurus Dozen](https://jumpingrivers.github.io/datasauRus/)  
-> O dataset pode ser baixado diretamente via Python usando o pacote `datasaurus`  :  
+> O dataset pode ser baixado diretamente via Python usando o pacote `datasaurus`:  
 > ```python
 > pip install datasaurus
 > from datasaurus.core.models import Datasaurus
@@ -28,7 +28,7 @@ O Datasaurus Dozen é composto por 13 subsets diferentes. Utilizando o dataset c
 - Explore a estrutura geral do DataFrame (tipos de colunas, shape, quantidade de subsets, etc.)
 - Verifique se há valores ausentes ou registros duplicados
 - Para **cada subset**, calcule as seguintes estatísticas descritivas de `x` e `y`: média, desvio padrão e correlação
-
+- Compare as estatísticas entre os diferentes subsets
 **Explique** o que você observou nos resultados estatísticos entre os diferentes subsets. Há algo surpreendente?
 
 ---
